@@ -19,8 +19,15 @@ Yellow or White PWM wire.
  
 ## Experiment
 In this experiment, we will connect the power and ground pins directly to the Arduino 5V and GND pins. The PWM input will be connected to one of the Arduino's digital output pins.
+
+
+## circuit diagram
+
+ ![arduino_robot_arm](https://user-images.githubusercontent.com/85651071/126197878-4eb446e0-77cf-4869-bb5e-703a44c09a79.png)
+
+
  
-circuit video
+## circuit video
 
 
 https://user-images.githubusercontent.com/85651071/126071196-5cd1e56b-1e8a-4e46-92e2-33decf70b05d.mp4
